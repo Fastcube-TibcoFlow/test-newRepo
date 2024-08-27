@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
-	</modules>
+	<module>../maven.mc-test-newRepo.parent</module>
+    </modules>
 </project>
